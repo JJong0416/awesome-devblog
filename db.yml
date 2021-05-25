@@ -3642,6 +3642,10 @@
 - name: 박종영
   blog: https://medium.com/@jongyoungpark
   rss: https://medium.com/feed/@jongyoungpark
+- name: 박종찬
+  blog: https://www.notion.so/jjongdev/Who-s-Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7
+  description: 초보 개발 이야기
+  github: https://github.com/jjong0416
 - name: 박종철
   blog: https://jaypark.netlify.app/
   description: React
